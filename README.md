@@ -1,7 +1,7 @@
 # Retail-Store-Sales-Analysis-Using Excel
 
 ## Business Case Study
-The dataset provides detailed insights into retail store transactions for July 2021 This dataset is a valuable resource for analyzing sales trends, understanding retail outlet classifications, and evaluating the performance of various channels and delivery agents.
+The dataset provides detailed insights into a retail store transactions for July 2021. This dataset is a valuable resource for analyzing sales trends, understanding retail outlet classifications, and evaluating the performance of various channels and delivery agents.
 
 ## Business Problem
 The retail company aims to optimize its operations and enhance customer satisfaction. The company seeks to uncover valuable insights to inform strategic decision-making.
@@ -12,7 +12,7 @@ The retail company aims to optimize its operations and enhance customer satisfac
 - How many orders are placed for each product category, providing insights into popular and less popular items?
 - What is the distribution of shipping statuses based on the classification of retail outlets?
 - Which states exhibit high sales volumes, and how does this vary across different sales channels?
-- Can we identify delivery agents with a track record of underperformance or delayed deliveries?
+- Can we identify producers with low sales figures?
 
 The analysis aims to provide actionable insights for the company, facilitating targeted strategies to improve customer satisfaction, optimize inventory, and enhance overall operational efficiency.
 
@@ -89,3 +89,40 @@ The chart explores the distribution of shipping statuses across different retail
 - **Outlet Type with the Most 'Delivered' Shipping Status:** Convenience Store, with 2761 successful deliveries.
 
 Understanding the shipping status distribution by outlet type is valuable for optimizing delivery processes and addressing any issues that may arise in specific types of retail outlets.
+
+
+6. #### Which states exhibit high sales volumes, and how does this vary across different sales channels?
+   ![Sales across Sales Channels in different states](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/242af758-1538-474d-94e4-77cf0a6cf890)
+The analysis investigates sales volumes across different states based on various sales channels. 
+
+- **Top 3 Leading States by Sales Volume:**
+  1. Gauteng: Not actively engaged in Field Sales, but it dominates in Mobile App sales.
+  2. Lagos: Significant sales across Mobile App and Telesales.
+  3. Ogun: Higher sales in Telesales compared to Mobile App.
+
+Understanding the sales distribution across states and sales channels is crucial for tailoring marketing and operational strategies to maximize revenue.
+
+7. #### Can we identify producers with sales figures of below $10,000?
+   ![Producers with Sales Figures Below $10,000](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/095c20f3-9615-43c0-bf28-83dda2fe9e5c)
+
+The producers listed above have sales figures below $10,000. This insight is valuable for assessing the performance of individual producers and exploring potential strategies to enhance their sales performance.
+
+## Conclusion
+
+In this comprehensive analysis of the dataset of a Retail store orders in July 2021, we explored various aspects of the sales and delivery ecosystem. From identifying top customers and high-performing states to evaluating delivery agents' efficiency and categorizing products, the analysis provides valuable insights. The examination of sales across different channels and the identification of producers with specific sales figures further contribute to a holistic understanding of the business landscape. These insights can guide strategic decisions, optimize operations, and enhance overall business performance.
+
+## Recommendation
+
+- Prioritize engagement strategies with top customers like "Iya Ruka K Store" and "Ym Stores" to foster loyalty and increase sales.
+
+- Allocate marketing resources based on state-wise sales performance, with a focus on boosting sales in high-performing states like Lagos.
+
+- Recognize and incentivize top-performing delivery agents, specifically Kagiso Katlego and Nomfundo Sibongile, to maintain high-quality service.
+
+- Optimize inventory and promotions based on popular product categories such as "Food" while addressing potential gaps in less popular categories.
+
+- Tailor strategies for different outlet types, with a focus on convenience stores where successful deliveries are more prominent.
+
+- Implement targeted campaigns across sales channels, especially mobile app and telesales, in high-sales states like Gauteng and Lagos.
+
+- Collaborate with producers like PZ Cussons Nigeria Plc and Extreme Manufacturing Nig Ltd to explore opportunities for increasing sales beyond the $10,000 threshold.
