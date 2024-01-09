@@ -37,7 +37,7 @@ To better understand the order categories, a new column 'Order Category' will be
 ![Quantity Category](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/bb25ae09-923f-4fdb-a9da-390f0717a861)
 
 ## Findings
-1. Who are the highest buying customers in terms of total purchase quantity?
+1. #### Who are the highest buying customers in terms of total purchase quantity?
 
 ![Top 10 Customeras](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/f388093e-a14f-486d-8bee-6815848c6dcf)
 This chart highlights the top 10 customers contributing significantly to the total purchase quantity.
@@ -47,7 +47,7 @@ This chart highlights the top 10 customers contributing significantly to the tot
  - **Total Purchase Quantity:** 752
    
 
-2. How do sales vary across different states? Can we identify the states with notable sales performance?
+2. #### How do sales vary across different states? Can we identify the states with notable sales performance?
 
 ![Sales performance by states](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/86f01f04-9b83-43ba-95b8-ade169aaf3c8)
 The chart reveals significant variation in sales across different states. The top-performing states, based on the sum of sales price, are as follows:
@@ -61,7 +61,7 @@ On the other hand, some states have relatively lower sales figures, with the low
 This highlights the disparities in sales performance among states, with Lagos standing out as the leading contributor to overall sales. Understanding these variations can guide strategic decision-making for targeted marketing and resource allocation.
 
 
-3. Which delivery agents have consistently demonstrated top performance in terms of timely and successful order fulfillment?
+3. #### Which delivery agents have consistently demonstrated top performance in terms of timely and successful order fulfillment?
 
 ![Top Delivery Agents](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/26854c57-6196-407e-84b5-4295ff3e4663)
 The analysis identifies delivery agents who have consistently demonstrated top performance in terms of timely and successful order fulfillment. The two delivery agents with the highest number of successful deliveries are:
@@ -71,3 +71,21 @@ The analysis identifies delivery agents who have consistently demonstrated top p
 
 These delivery agents stand out for their reliability and efficiency in ensuring that orders are delivered on time, contributing significantly to overall customer satisfaction and fulfillment success.
 
+
+4. #### How many orders are placed for each product category, providing insights into popular and less popular items?
+   ![Orders by Product Category](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/d259db9c-e5ce-4075-aa6a-ba26559701de)
+The analysis provides insights into the distribution of orders across different product categories, shedding light on popular and less popular items. Here are the findings:
+
+- **Top Product Category:** Food, with the highest number of orders (13058).
+- **Least Product Category:** Wine & Spirits, with the lowest number of orders (228).
+
+Understanding the order distribution across product categories is crucial for inventory management and meeting customer demand effectively.
+
+
+5. #### What is the distribution of shipping statuses based on the classification of retail outlets?
+   ![Outlet type shipping status](https://github.com/tolulopeoa/Excel-Retail-Store-Sales-Analysis/assets/102050942/97501de4-8158-4b86-89ee-1ab2851c6720)
+The chart explores the distribution of shipping statuses across different retail outlet types. Here are the findings:
+
+- **Outlet Type with the Most 'Delivered' Shipping Status:** Convenience Store, with 2761 successful deliveries.
+
+Understanding the shipping status distribution by outlet type is valuable for optimizing delivery processes and addressing any issues that may arise in specific types of retail outlets.
