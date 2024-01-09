@@ -16,6 +16,19 @@ The retail company aims to optimize its operations and enhance customer satisfac
 
 The analysis aims to provide actionable insights for the company, facilitating targeted strategies to improve customer satisfaction, optimize inventory, and enhance overall operational efficiency.
 
+## Excel Tools Used
+
+1. **SUM:** Utilized for aggregating total quantities, sales figures, and other numeric data.
+
+2. **AVERAGE:** Applied to calculate average values for specific metrics.
+
+3. **IFS:** Employed to filter and analyze data based on multiple conditions, facilitating nuanced insights.
+
+4. **Pivot Tables:** Used for dynamic data summarization, providing a comprehensive view of various aspects of the dataset.
+
+5. **Charts:** Utilized for visual representation, including line charts to depict sales figures by states and other relevant visualizations for enhanced interpretation.
+
+
 ## Data Transformation
 
 ### Sales Figure Calculation:
